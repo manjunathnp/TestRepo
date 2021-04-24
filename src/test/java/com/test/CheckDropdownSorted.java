@@ -3,7 +3,6 @@ package com.test;
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 import org.openqa.selenium.By;
